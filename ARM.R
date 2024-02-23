@@ -39,8 +39,9 @@ rules <- apriori(discretizeDF(dataset),
                                    default="lhs"),
                  control = list(verbose=F))
 
-inspect(sort(rules, by = 'support',decreasing = TRUE))
+inspect(sort(rules, by = 'support',decreasing = TRUE)[1:15])
 inspect(sort(rules, by = 'confidence',decreasing = TRUE))
 inspect(sort(rules, by = 'lift',decreasing = TRUE))
 
 plot(rules, method = "graph", control = list(type = "items"))
+plot(rules, method = "scatter")
