@@ -1,0 +1,11 @@
+,temperature(f),wind_chill(f),humidity(%),pressure(in),visibility(mi),wind_speed(mph),precipitation(in),crossing,give_way,junction,no_exit,railway,roundabout,station,stop,traffic_calming,traffic_signal
+160423,91.0,91.0,55.0,29.85,10.0,6.0,0.0170715835140997,False,False,False,False,False,False,False,False,False,False
+429474,31.0,23.0,92.0,29.18,2.0,9.0,0.0,False,False,False,False,False,False,False,False,False,False
+344131,70.0,70.0,30.0,29.86,10.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False
+496382,76.0,76.0,58.0,29.61,10.0,5.0,0.0,False,False,False,False,False,False,False,False,False,False
+60947,66.9,71.67625899280576,63.0,30.0,10.0,4.6,0.0111743772241992,False,False,False,False,False,False,False,False,False,True
+243786,63.0,63.0,90.0,29.15,5.0,5.0,0.03,False,False,False,False,False,False,False,False,False,False
+204693,66.0,66.0,75.0,29.7,10.0,7.0,0.0,False,False,False,False,False,False,False,False,False,False
+254267,60.0,60.0,93.0,29.52,10.0,13.0,0.13,False,False,False,False,False,False,False,False,False,False
+196589,75.9,83.69333333333333,94.0,30.05,10.0,8.108547008547008,0.0165,False,False,False,False,False,False,False,False,False,False
+476157,90.0,90.0,55.0,29.98,10.0,13.0,0.0,True,False,False,False,False,False,False,False,False,True
